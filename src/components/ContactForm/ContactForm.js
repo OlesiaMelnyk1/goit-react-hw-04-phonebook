@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import {
   Form,
-  FormLabel,
   FormInput,
+  FormLabel,
   FormAddButton,
 } from 'components/ContactForm/ContactForm.styled';
 
